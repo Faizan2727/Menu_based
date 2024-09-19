@@ -14,7 +14,7 @@ import os
 
 app = Flask(__name__)
 
-# Home route for EC2 instance creation form
+#Home route for EC2 instance creation form
 @app.route('/')
 def ec2_index():
     return render_template('index.html')
