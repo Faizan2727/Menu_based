@@ -1,4 +1,4 @@
-VLC Player in Docker: Launch a VLC player inside a Docker containe
+VLC Player in Docker: Launch a VLC player inside a Docker container
 
 docker pull faizan2727/faizan_vlc:v1
 
