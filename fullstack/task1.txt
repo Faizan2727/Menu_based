@@ -1,4 +1,4 @@
-Voice-to-Text using JavaScript: Capture audio via a mic and convert it to text using JavaScript
+Voice-to-Text using JavaScript: Capture audio via a mic and convert it to text using JavaScript.
 
 <!DOCTYPE html>
 <html>
